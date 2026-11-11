@@ -1,3 +1,8 @@
 name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
+
+[vars]
+ALLOWED_DOMAINS = "koulenga.com, *.koulenga.com"
+GITHUB_CLIENT_ID = "Ov23liKUI3mnc68w6RqZ"
+
